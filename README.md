@@ -22,11 +22,10 @@ You can choose a way to support my open source work. Thank you.
 
 [爱发电 (国内用户)](https://afdian.net/a/lencx)
 
-<img width="300" src="https://user-images.githubusercontent.com/16164244/207228025-117b5f77-c5d2-48c2-a070-774b7a1596f2.png" />
+<img width="240" src="https://user-images.githubusercontent.com/16164244/207228025-117b5f77-c5d2-48c2-a070-774b7a1596f2.png" />
 
 ## 国内用户
 
 `AI 绘画技术交流群`：如果群二维码失效，可以关注公众号 「`浮之静`」，发送 `sd` 获取群邀请。
 
-<img width="300" src="https://user-images.githubusercontent.com/16164244/207228300-ea5c4688-c916-4c55-a8c3-7f862888f351.png">
-<img width="300" src="https://github.com/lencx/sd-webui-qrcode/assets/16164244/4c9c8b4e-e75a-4000-b14a-a8cf447eea03" />
+<img width="240" src="https://user-images.githubusercontent.com/16164244/207228300-ea5c4688-c916-4c55-a8c3-7f862888f351.png"> <img width="240" src="https://github.com/lencx/sd-webui-qrcode/assets/16164244/4c9c8b4e-e75a-4000-b14a-a8cf447eea03" />

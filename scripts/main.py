@@ -112,8 +112,8 @@ def on_ui_tabs():
                     send_controlnet_img2img = gr.Button("Send to ControlNet (img2img)")
                     control_net_max_models_num = opts.data.get('control_net_max_models_num', 1)
                     send_controlnet_num = gr.Dropdown([str(i) for i in range(control_net_max_models_num)], label="ControlNet Unit", value="0", interactive=True, visible=(control_net_max_models_num > 1))
-                    send_controlnet_txt2img.click(None, [output, send_controlnet_num], None, _js="(i, n) => {sendToControlnet(i, 'txt2img', n)}", show_progress=False)
-                    send_controlnet_img2img.click(None, [output, send_controlnet_num], None, _js="(i, n) => {sendToControlnet(i, 'img2img', n)}", show_progress=False)
+                    send_controlnet_txt2img.click(None, [output, send_controlnet_num], None, _js="(i, n) => {sendToControlNet(i, 'txt2img', n)}", show_progress=False)
+                    send_controlnet_img2img.click(None, [output, send_controlnet_num], None, _js="(i, n) => {sendToControlNet(i, 'img2img', n)}", show_progress=False)
 
             generate_button.click(
                 fn=generate_qrcode,

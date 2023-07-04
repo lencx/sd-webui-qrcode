@@ -13,3 +13,13 @@ Extension for AUTOMATIC1111's [Stable Diffusion web UI](https://github.com/AUTOM
 5. Click on the `Install` button. Post-installation, a message will appear stating, "Installed into `~/stable-diffusion-webui/extensions/sd-webui-qrcode`. Use the `Installed` tab to restart."
 6. Navigate to the `Installed` tab and click on `Apply and restart UI` to initialize the changes.
 7. For future upgrades, within the `Installed` tab, select the `Check for updates` button. Observe the `Update` column in the displayed table, and select the plugins that need an upgrade. To apply these updates, click on `Apply and restart UI`, finalizing the upgrade process.
+
+## Sponsors
+
+You can choose a way to support my open source work. Thank you.
+
+<a href="https://www.buymeacoffee.com/lencx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+
+[爱发电 (国内用户)](https://afdian.net/a/lencx)
+
+<img width="300" src="https://user-images.githubusercontent.com/16164244/207228025-117b5f77-c5d2-48c2-a070-774b7a1596f2.png" />

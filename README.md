@@ -22,6 +22,6 @@ You can choose a way to support my open source work. Thank you.
 
 ## 国内用户
 
-`AI 绘画技术交流群`：如果群二维码失效，可以关注公众号 「`浮之静`」，发送 `sd` 获取群邀请。
+`AI 绘画交流群`：可关注公众号 「`浮之静`」，发送 `sd` 获取群二维码。
 
 <img height="240" src="https://user-images.githubusercontent.com/16164244/207228025-117b5f77-c5d2-48c2-a070-774b7a1596f2.png" /> <img height="240" src="https://user-images.githubusercontent.com/16164244/207228300-ea5c4688-c916-4c55-a8c3-7f862888f351.png">
